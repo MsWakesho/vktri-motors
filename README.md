@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project
+This is a car delearship app that will assist user when they want to look for a specific type of car that would fit their needs perfectly.
+
 ## Available Scripts
 
 In the project directory, you can run:

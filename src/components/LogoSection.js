@@ -1,6 +1,5 @@
-import CarLogos from './car.json';
-
-
+import landRover from "../images/landroverlogo.webp"
+import corvetteLogo from "../images/corvettelogo.png"
 
 
 function LogoSection() {
@@ -11,15 +10,16 @@ function LogoSection() {
             <h2>GET YOUR DREAM LOGO OUT OF YOUR HEAD AND ON TO THE ROAD</h2>
             <br />
             <div className='logosection'>
-              {
-                CarLogos && CarLogos.carLogos.map((logo) => (
-                  <div className='logobox' key={logo.id}>
+            <div className='logobox' >
+                   <img src={landRover} alt="Land Rover" />
+                   <img src={corvetteLogo} alt="Corvette" />
                    <img src="" alt="" />
-    
-                    <br />
-                    {logo.brand}
+                   <img src="" alt="" />
+                   <img src="" alt="" />
+                   <img src="" alt="" />
+
                   </div>
-                ))}
+             
             </div>
           </div>
         
