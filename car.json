@@ -1,0 +1,34 @@
+{
+  "carLogos": [
+    {
+      "id": 1,
+      "brand": "jaguar",
+      "logoPicture": "/images/jaguarlogo.png"
+    },
+    {
+      "id": 2,
+      "brand": "corvette",
+      "logoPicture": "/images/corvettelogo.png"
+    },
+    {
+      "id": 3,
+      "brand": "ford",
+      "logoPicture": "/images/fordlogo.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "mercedes",
+      "logoPicture": "/images/mercedeslogo.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "peugeot",
+      "logoPicture": "/images/peugeotlogo.png"
+    },
+    {
+      "id": 6,
+      "brand": "landrover",
+      "logoPicture": "/images/landroverlogo.png"
+    }
+  ]
+}
