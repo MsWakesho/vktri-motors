@@ -1,0 +1,13 @@
+
+.footerbox{
+    display: flex;
+    justify-content: space-around;
+    margin-top:200px;
+    height: 200px;
+    background-color: rgb(80, 80, 131);
+    padding: 10px 10px;
+}
+
+.footer3{
+    margin-top: 20px;
+}

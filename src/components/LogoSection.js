@@ -12,7 +12,8 @@ function LogoSection() {
         <div className="App">
           <div className="logoheader">
             <br />
-            <h2>GET YOUR DREAM LOGO OUT OF YOUR HEAD AND ON TO THE ROAD</h2>
+            <h2>GET YOUR DREAM LOGO OUT OF YOUR HEAD<br/>
+                AND ON TO THE ROAD</h2>
             <br />
             <div className='logosection'>
             <div className='logobox' >

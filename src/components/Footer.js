@@ -1,3 +1,6 @@
+import "./Footer.css"
+
+
 function Footer(){
     return(
         <div  className="footerbox">
@@ -21,6 +24,11 @@ function Footer(){
             <li>Tel: 02000000000</li>
             <li>Email: vktrimotors@gmail.com</li>
             <li>PO.BOX: VIKTRI020</li>
+         </div>
+
+         <div className="footer4">
+            <h2>Office hours:</h2>
+            <h3>9AM - 5:30PM</h3>
          </div>
        
       </div>
