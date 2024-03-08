@@ -1,5 +1,6 @@
 import LogoSection from "./LogoSection";
-import Carousel from "./Carousel";
+import Footer from "./Footer";
+
 //since the images are locally sourced
 // import image1 from './images/ladyincar.jpg'
 // import image2 from './images/showroom1.jpg'
@@ -11,8 +12,10 @@ function LandingPage(){
     // const image = [image1,image2,image3,image4,image5]
     return(
         <div className ="landingpage">
-             {/* <Carousel image={image} /> */}
+          
             <LogoSection />
+            <Footer/>
+           
            
         </div>
     )

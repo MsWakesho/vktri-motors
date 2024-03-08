@@ -10,8 +10,10 @@ body{
 }
 
 .logosection img{
+    max-width: 300px;
     max-height: 200px;
     margin-bottom:200px;
-    transform: rotate(5deg);
+    margin-left: 15px;
+    transform: rotate(2deg);
 
 }

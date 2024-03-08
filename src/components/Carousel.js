@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
-
+import slide1 from "../images/slide1.jpg"
+import slide2
 function Carousel({images}){
     const [currentIndex,setCurrentIndex]= useState(0);
 
